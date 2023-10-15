@@ -29,10 +29,10 @@ public class Main {
         ssi.admit();
         ssi.award();
         ssi.suspend();
-
-        Staff staff = new Staff("teacher");
-        System.out.println(staff.area(20));
-        System.out.println(staff.area(5,4));
+//
+//        Staff staff = new Staff("teacher");
+//        System.out.println(staff.area(20));
+//        System.out.println(staff.area(5,4));
 
 
 
